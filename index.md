@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 	<head>
-		<title>Hank Quinlan, Horrible Cop</title>
+		<title>Yusniel Hidalgo Delgado</title>
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	</head>
@@ -22,8 +21,8 @@
 		</div><!-- /.container -->
 		<footer>
     		<ul>
-        		<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-        		<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
+        		<li><a href="mailto:yhidalgo86@gmail.com">email</a></li>
+        		<li><a href="https://github.com/yhdelgado">github.com/yhdelgado</a></li>
 			</ul>
 		</footer>
 	</body>
