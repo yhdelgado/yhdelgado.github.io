@@ -17,7 +17,7 @@
 		<div class="container">
     		<div class="blurb">
         		<h1>Welcome to my personal website</h1>
-				<p></a></p>
+				<p></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
