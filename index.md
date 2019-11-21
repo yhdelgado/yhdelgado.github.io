@@ -8,15 +8,16 @@
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
-	        	<li><a href="/about">About</a></li>
-        		<li><a href="/cv">CV</a></li>
+	        	<li><a href="/projects">Projects</a></li>
+        		<li><a href="/publications">Publications</a></li>
+			<li><a href="/teaching">Teaching</a></li>
         		<li><a href="/blog">Blog</a></li>
     		</ul>
 		</nav>
 		<div class="container">
     		<div class="blurb">
-        		<h1>Hi there, I'm Hank Quinlan!</h1>
-				<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+        		<h1>Welcome to my personal website</h1>
+				<p></a></p>
     		</div><!-- /.blurb -->
 		</div><!-- /.container -->
 		<footer>
