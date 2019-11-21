@@ -5,7 +5,7 @@
 <!--[if IE 8]>
 <html class="ie8" lang="en">    <![endif]-->
 <head>
-   <meta http-equiv="Refresh" content="0; url=en/index.html">
+   <meta http-equiv="Refresh" content="0; url=index.md">
    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
    <meta http-equiv="X-UA-Compatible" content="IE=edge">
    <meta name=viewport content="width=device-width, initial-scale=1">
