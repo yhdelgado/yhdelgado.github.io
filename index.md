@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <!--[if IE 9]>
 <html class="ie9" lang="en">    <![endif]-->
@@ -38,7 +37,7 @@
    </script>
    <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
-	<body>
+<body>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
@@ -60,5 +59,5 @@
         		<li><a href="https://github.com/yhdelgado">github.com/yhdelgado</a></li>
 			</ul>
 		</footer>
-	</body>
+</body>
 </html>
